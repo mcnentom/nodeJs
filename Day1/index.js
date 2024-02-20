@@ -14,7 +14,7 @@ const myserver = data.createServer((req, res)=>{
         res.end(JSON.stringify({error: `internal error`}))
         return;
     }
-    res.end(data)
+    res.end(data);
  })
 })
 const Port = 3000;
