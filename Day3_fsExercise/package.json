@@ -1,0 +1,17 @@
+{
+  "name": "Day3_fsExercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^3.3.1",
+    "nodemon": "^3.0.3",
+    "uuid": "^9.0.1"
+  }
+}
