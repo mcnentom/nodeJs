@@ -1,0 +1,38 @@
+[
+  {
+    "id": "045c184f-e392-4236-b13f-c317adb360b7",
+    "productName": "Cauliflower",
+    "productPrice": 1800,
+    "productDescription": "Good Cauliflower"
+  },
+  {
+    "id": "89e386dc-c247-4618-a6c0-c1e2b26866a2",
+    "productName": "Maize",
+    "productPrice": 1000,
+    "productDescription": "Good Maize"
+  },
+  {
+    "id": "7d23b674-dd33-422d-b7d7-2cf2d81b0565",
+    "productName": "Bean",
+    "productPrice": 1100,
+    "productDescription": "Good Beans"
+  },
+  {
+    "id": "a8dc4926-8bef-4fc5-b171-1bf45e9a939f",
+    "productName": "peas",
+    "productPrice": 1300,
+    "productDescription": "Good Peas"
+  },
+  {
+    "id": "26bbec46-2311-4949-b1e1-e1059d49ffcf",
+    "productName": "Onion",
+    "productPrice": 1200,
+    "productDescription": "Good Onion"
+  },
+  {
+    "id": "c7468d56-c913-42a3-9fa2-6b9d0ad7a997",
+    "productName": "Tomato",
+    "productPrice": 1000,
+    "productDescription": "well ripen tomato"
+  }
+]
