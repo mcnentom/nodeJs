@@ -34,5 +34,11 @@
     "productName": "Tomato",
     "productPrice": 1000,
     "productDescription": "well ripen tomato"
+  },
+  {
+    "id": "50ddd8e8-6701-44b0-8be7-4b3b008df326",
+    "productName": "Pineapple",
+    "productPrice": 1900,
+    "productDescription": "well ripen Pineapple"
   }
 ]
