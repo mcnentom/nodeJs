@@ -11,9 +11,9 @@ router.get('/', (req, res) => {
 
 router.post('/', [
    
-    check('productName').notEmpty().withMessage('Product name is required'),
-    check('productPrice').notEmpty().withMessage('Product price is required').isNumeric().withMessage('Product price must be a number'),
-    check('productDescription').notEmpty().withMessage('Product description is required'),
+    check('productName').notEmpty().withMessage('Product name is required').escape(),
+    check('productPrice').notEmpty().withMessage('Product price is required').isNumeric().withMessage('Product price must be a number').escape(),
+    check('productDescription').notEmpty().withMessage('Product description is required').escape(),
 ], async (req, res) => {
     
     const errors = validationResult(req);
